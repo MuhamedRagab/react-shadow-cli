@@ -1,0 +1,27 @@
+{
+  "name": "react-shadow-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-react-shadow": "./index.js"
+  },
+  "repository": {},
+  "scripts": {
+    "start": "node --experimental-modules index.js",
+    "mo": "node --experimental-modules index.js",
+    "create-react-shadow": "node --experimental-modules index.js"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "shadow",
+    "create-react-shadow"
+  ],
+  "author": "Mohamed Ragab",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^0.6.3"
+  }
+}
