@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // https://github.com/natemoo-re/clack/blob/main/examples/basic/index.ts
 
 import buildProject from "./prompts/buildProject.js";
