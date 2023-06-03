@@ -7,7 +7,10 @@
   "bin": {
     "create-react-shadow": "./index.js"
   },
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuhamedRagab/react-shadow-cli.git"
+  },
   "scripts": {
     "start": "node --experimental-modules index.js",
     "mo": "node --experimental-modules index.js",
